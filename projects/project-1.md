@@ -13,6 +13,7 @@ labels:
   - ROS
   - GIT
 summary: A ROS implementation of EKF Slam on a turtlebot3 
+youtubeId: https://www.youtube.com/watch?v=BS0KN7_F8DE
 ---
 
 <div class="ui small rounded images">
@@ -35,6 +36,6 @@ Code source :
 
 https://github.com/vishwajeet-NU/slam_project
 
-
-{% include youtubePlayer.html id=page.https://www.youtube.com/watch?v=BS0KN7_F8DE %}
+  
+{% include youtubePlayer.html id=page.youtubeId %}
 
