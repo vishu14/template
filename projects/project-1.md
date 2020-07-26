@@ -32,10 +32,8 @@ Project details:
 6) Creating a clustering algorithm for identification of cylindrical landmarks. </br>
 7) EKF slam.
 
-Code source :
 
-https://github.com/vishwajeet-NU/slam_project
-
-  
+<a href= "https://github.com/vishwajeet-NU/slam_project"> ​code source </a>
+ 
 {% include youtubePlayer.html id=page.youtubeId %}
 

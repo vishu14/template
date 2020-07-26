@@ -10,7 +10,7 @@ labels:
   - MATLAB
   - Navigation
   - State Estimation
-summary: Developed a Particle Filter for localization in MATLAB
+summary: Particle Filter for localization in MATLAB
 ---
 
 <img class="ui medium right floated rounded image" src="../images/1.png">
@@ -20,7 +20,5 @@ Given real-world dynamics, it is close to impossible building a mathematical mod
 
 Particle filter is a non-parametric filter that can be used for the same. This algorithm is used to a high degree of success, again for the UTIAS Multi-Robot Cooperative Localization and Mapping Dataset, by the ASRL lab.
 ​
+<a href= "https://github.com/vishwajeet-NU/ML-AI-/tree/master/particle_filter"> ​code source </a>
 
-code source:
-</br>
-https://github.com/vishwajeet-NU/ML-AI-/tree/master/particle_filter

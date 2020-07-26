@@ -22,6 +22,5 @@ Two variants of A* are implemented in a grid based world with obstacles. Data wa
 
 2) Online A*: Paths are recalculated for each achieved position. Gaussian noise is added to the motion model to simulate motion uncertainty.
 
-code source: </br>
+<a href= "https://github.com/vishwajeet-NU/ML-AI-/tree/master/a_star"> ​code source </a>
 
-https://github.com/vishwajeet-NU/ML-AI-/tree/master/a_star
