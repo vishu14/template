@@ -13,11 +13,10 @@ labels:
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
+
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Screenshot from 2020-03-25 20-24-50.png">
+  <img class="ui image" src="../images/Screenshot 2020-03-25 20 12 33.png">
 </div>
 
 This project was built from the ground up and coded using C++ in the ROS platform. It employs a feature-based SLAM system using Extended Kalman filters and is run on the turtle bot 3 platform.
