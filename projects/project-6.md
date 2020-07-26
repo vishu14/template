@@ -16,7 +16,8 @@ labels:
 summary: Data Aquisition system for an Electric Scooter fleet
 
 ---
-<div>
+
+<div class="ui small images">
 <img class="ui medium right rounded image" src="../images/IMG_20190429_150921.jpg">
 <img class="ui medium right rounded image" src="../images/IMG_20190415_115046.jpg">
 <img class="ui medium right rounded image" src="../images/IMG_20190226_132933.jpg">
