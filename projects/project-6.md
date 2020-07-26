@@ -17,9 +17,10 @@ summary: Data Aquisition system for an Electric Scooter fleet
 
 ---
 <div>
-<img class="ui medium right floated rounded image" src="../images/IMG_20190429_150921.jpg">
-<img class="ui medium right floated rounded image" src="../images/IMG_20190415_115046.jpg">
-<img class="ui medium right floated rounded image" src="../images/IMG_20190226_132933.jpg">
+<img class="ui medium right rounded image" src="../images/IMG_20190429_150921.jpg">
+<img class="ui medium right rounded image" src="../images/IMG_20190415_115046.jpg">
+<img class="ui medium right rounded image" src="../images/IMG_20190226_132933.jpg">
+<img class="ui medium right rounded image" src="../images/IMG_20190510_171113.jpg">
 </div>
 
 <br>
