@@ -5,7 +5,7 @@ image: images/11)1.png
 title: A* path planner for a grid world
 permalink: projects/A* path planner for a grid world
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-01
+date: 2019-10-01
 labels:
   - MATLAB
   - Navigation

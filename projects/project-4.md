@@ -5,7 +5,7 @@ image: images/dead_reck_2000itr_1000particles.jpg
 title: Particle Filter
 permalink: projects/Particle Filter
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-01
+date: 2019-10-01
 labels:
   - MATLAB
   - Navigation

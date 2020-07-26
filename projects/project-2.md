@@ -5,7 +5,7 @@ image: images/test_data.jpg
 title: Learning motion models using a neural network
 permalink: projects/Neural Networks
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-01
+date: 2019-10-01
 labels:
   - Machine Learning 
   - Robotics
