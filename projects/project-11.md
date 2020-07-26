@@ -5,11 +5,11 @@ image: images/3d1.jpg
 title: 3d printing
 permalink: projects/3d printing
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-03
+date: 2016-01-01
 labels:
   - Rapid Prototyping
   - Manufacturing
-summary: More Carbon-Fiber! 
+summary: FDM prints 
 ---
 A gallery of 3D printed products I have designed, printed and processed
 <br>

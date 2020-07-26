@@ -5,7 +5,7 @@ image: images/14440756_1379870012026616_1783113082383808970_n.jpg
 title: Filament winding machine 
 permalink: projects/Filament winding machine
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-01
+date: 2016-05-01
 labels:
   - Arduino
   - Carbon-Fiber

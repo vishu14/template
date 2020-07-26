@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fs5.jpg
+image: images/_final_rendered_edited.jpg
 title: Tilt Rotor
 permalink: projects/Tilt Rotor
 # All dates must be YYYY-MM-DD format!
@@ -16,10 +16,9 @@ youtubeID2: DxDe-ByR2w4
 
 ---
 <div class="ui medium images">
-<img class="ui medium right rounded image" src="../images/fs4.jpg">
-<img class="ui medium right rounded image" src="../images/fs2.jpg">
-<img class="ui medium right rounded image" src="../images/fs3.jpg">
-<img class="ui medium right rounded image" src="../images/fs1.jpg">
+<img class="ui medium right rounded image" src="../images/_final_rendered_edited.jpg">
+<img class="ui medium right rounded image" src="../images/be1.jpg">
+<img class="ui medium right rounded image" src="../images/be2.png">
 </div>
 
 <br>
