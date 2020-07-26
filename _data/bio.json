@@ -87,58 +87,42 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "Shirley Ryan Ability Lab (argallab)",
+      "position": "Research Assistant, Assistive Robotics",
+      "startDate": "2020-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Devised a perception pipeline to locate doorways for an intelligent wheelchair by exploring deep-learning paradigms",
+        "Trained Mask-RCNN to generate door masks and estimated door locations (in real-time) using these masks and point-clouds",
+        "Tested semantic segmentation using Point-Net trained on a Stanford Dataset; found it unusable for real-time goal inference",
+        "Redeveloped parts of wheelchair codebase (100k+ lines, C++), implementing proper version control and improving readability; collaborated with a team of 7 graduate students loosely following Agile development methods",        
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Micelio Mobility Pvt Ltd",
+      "position": "Software-Electrical Engineering Intern",
+      "startDate": "2019-02-13",
+      "endDate": "2019-06-13",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Saved the company $45k by developing 15 Data Acquisition System prototypes for the company’s electric scooter fleet",
+        "Wrote C code for Arduino to filter, convert, and collect data from sensors used in the DAQ",
+        "Coded Python scripts to broadcast data to an AWS cloud database for real-time vehicle visibility, with features to prevent data-loss",
+        "Handled circuit design, CAD modeling, component sourcing, and 3D printing of enclosures for the DAQ devices"
+      ]
+    },  
+
+    {
+      "company": "12C Composites",
+      "position": "Founder",
+      "startDate": "2015-11-01",
+      "endDate": "2016-11-01",
+      "highlights": [
+        "Manufactured carbon-fiber composites; delivered 50+ parts for products such as wind turbines, racecar bodyworks, and drones",
+        "Managed company performance and finances to stay profitable, with a margin of 45%",
+        "Built a CNC 'Filament Winding Machine' at 32% cost of alternatives in the market; used it to supply carbon fiber tubes"
       ]
     }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+
   ],
   "references": [
     {
