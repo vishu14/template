@@ -68,8 +68,7 @@
       "endDate": "Present",
       "gpa": "3.89/4.0",
       "courses": [ "ML & AI in Robotics", "Optimal control",
-        "Deep Learning from scratch","Robotic Manip-
-        ulation" "Sensing & Navigation in Robotics",
+        "Deep Learning from scratch","Robotic Manipulation", "Sensing & Navigation in Robotics",
         "Advanced Mechatronics"
       ]
     }
