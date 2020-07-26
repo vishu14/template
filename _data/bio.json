@@ -21,8 +21,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "vishkar",
+        "url": "http://linkedin.com/in/vishkar"
       }
     ]
   },
@@ -52,47 +52,39 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MATLAB",
+        "ROS",
+        "GIT",
+        "Pytorch"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Northwestern University",
+      "area": "Mechanical Engineering & Robotics ",
+      "studyType": "M.S.",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.89/4.0",
+      "courses": [ "ML & AI in Robotics", "Optimal control",
+        "Deep Learning from scratch","Robotic Manip-
+        ulation" "Sensing & Navigation in Robotics",
+        "Advanced Mechatronics"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "AMPL Lab , Northwestern University",
+      "position": "Robotics Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-07-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Built a ROS package that accepts tool paths from a CAM soft-
+        ware and performs sheet metal forming using a UR5 robot",
+        "Using MoveIt and OMPL for path planning. Completed simulation in Gazebo, with ongoing lab work on the real robot"
       ]
     },
     {
