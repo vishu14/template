@@ -10,8 +10,6 @@ labels:
   - Carbon-Fiber
   - Manufacturing
 summary: More Carbon-Fiber! 
-youtubeId: lkwk4oDQZbQ&t=22s
-
 ---
 A gallery of carbon-fiber products made at my startup, 12C Composites
 <br>
