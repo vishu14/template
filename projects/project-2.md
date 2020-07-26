@@ -1,25 +1,27 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/test_data.jpg
+title: Learning motion models using a neural network
+permalink: projects/Neural Networks
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-09-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Machine Learning 
+  - Robotics
+  - Neural Networks
+  - MATLAB
+
+summary: A custom built shallow neural network to learn motion models of a differential drive robot
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/train_data.jpg">
+<img class="ui medium right floated rounded image" src="../images/DSLAM.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+A shallow neural network was trained using the UTIAS Multi-Robot Cooperative Localization and Mapping Dataset, by the ASRL lab.The network managed to learn the model and could predict the posterior position given a control command. This trajectory matched well to the ground-truth.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The images to the left show performance of the trained model compared to ground truth for both the training and testing set.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+robot image source : ASR Lab. Uni Toronto
+
+​

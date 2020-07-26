@@ -2,38 +2,27 @@
   "basics": {
     "name": "Vishwajeet Karmarkar",
     "label": "Roboticist",
-    "picture": "https://vishu14.github.io/images/Vishwajeet Karmarkar1.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://vishwajeet-nu.github.io/images/Vishwajeet Karmarkar1.jpg",
+    "email": "vishwajeet@u.northwestern.edu",
+    "website": "https://vishwajeet-nu.github.io",
+    "summary": "I am pursuing a M.S in Mechanical Engineering Specializing in Robotics at Northwestern University. I am doing a thesis in Assitive Robotics under Dr Brenna Argall at the Argall Lab.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60201",
+      "city": "Evanston",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "vishwajeet-NU",
+        "url": "https://github.com/vishwajeet-NU"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
