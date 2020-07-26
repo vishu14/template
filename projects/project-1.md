@@ -16,7 +16,7 @@ summary: A ROS implementation of EKF Slam on a turtlebot3
 youtubeId: BS0KN7_F8DE
 ---
 
-<div>
+<div class="ui small rounded images">
   <img class="ui image" src="../images/Screenshot from 2020-03-25 20-24-50.png">
   <img class="ui image" src="../images/Screenshot 2020-03-25 20 12 33.png">
 </div>

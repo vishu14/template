@@ -14,6 +14,8 @@ summary: Particle Filter for localization in MATLAB
 ---
 
 <img class="ui medium right floated rounded image" src="../images/1.png">
+<img class="ui medium right floated rounded image" src="../images/dead_reck_all_vals_1000particles.jpg">
+
 <br>
 
 Given real-world dynamics, it is close to impossible building a mathematical model that can predict accurately a robot's state given a control signal. Localization using sensor data is thus performed to understand the robot's posterior state. 
