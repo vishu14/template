@@ -19,6 +19,9 @@ youtubeId: lkwk4oDQZbQ&t=22s
 <img class="ui medium right floated rounded image" src="../images/6.jpg">
 </div>
 
+<br>
+<br>
+
 I manufactured four custom built wind-turbine blades at 12C Composites. Carbon Skins were layed up and cured under vacuum. They were further bonded
 with aluminum ribs using epoxy adhesives.
 

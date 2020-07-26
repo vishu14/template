@@ -13,6 +13,9 @@ summary: More Carbon-Fiber!
 youtubeId: lkwk4oDQZbQ&t=22s
 
 ---
+A gallery of carbon-fiber products I made. Contact me for more details
+<br>
+<br>
 
 <div>
 <img class="ui medium right floated rounded image" src="../images/1.jpg">
@@ -26,5 +29,6 @@ youtubeId: lkwk4oDQZbQ&t=22s
 
 </div>
 
-A gallery of carbon-fiber products I made. Contact me for more details
+
+
 

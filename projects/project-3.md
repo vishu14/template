@@ -14,6 +14,7 @@ summary: Developed an A* planner in MATLAB
 ---
 
 <img class="ui medium right floated rounded image" src="../images/step2_3.png">
+<br>
 
 Two variants of A* are implemented in a grid based world with obstacles. Data was used from the UTIAS Multi-Robot Cooperative Localization and Mapping Dataset, by the ASRL lab. </br>
 ​
@@ -22,7 +23,7 @@ Two variants of A* are implemented in a grid based world with obstacles. Data wa
 
 2) Online A*: Paths are recalculated for each achieved position. Gaussian noise is added to the motion model to simulate motion uncertainty.
 
-</br>
+<br>
 
 <a href= "https://github.com/vishwajeet-NU/ML-AI-/tree/master/a_star"> ​code source </a>
 

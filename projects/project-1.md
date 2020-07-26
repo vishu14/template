@@ -20,6 +20,8 @@ youtubeId: BS0KN7_F8DE
   <img class="ui image" src="../images/Screenshot from 2020-03-25 20-24-50.png">
   <img class="ui image" src="../images/Screenshot 2020-03-25 20 12 33.png">
 </div>
+<br>
+<br>
 
 This project was built from the ground up and coded using C++. It employs a feature-based SLAM system using Extended Kalman filters and is run on the turtle bot 3 platform.
 
@@ -32,7 +34,7 @@ Project details:
 6) Creating a clustering algorithm for identification of cylindrical landmarks. </br>
 7) EKF slam.
 
-</br>
+<br>
 
 <a href= "https://github.com/vishwajeet-NU/slam_project"> ​code source </a>
  

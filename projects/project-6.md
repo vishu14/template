@@ -22,5 +22,8 @@ summary: Data Aquisition system for an Electric Scooter fleet
 <img class="ui medium right floated rounded image" src="../images/IMG_20190226_132933.jpg">
 </div>
 
+<br>
+<br>
+
 Built and designed the whole pipeline from 3d printing and assembly on the scooters, pcb design, and electronic component selection, to software development. The system uploaded data from 5 onboard sensors to a MySQL database hosted on the cloud.
 

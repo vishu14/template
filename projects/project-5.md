@@ -18,7 +18,7 @@ youtubeId: xpOXj_r9JK0
 
 Using the modern screw theory a you-bot is made to pick and place an object in a V-Rep based dynamic simulation.A feed-forward based trajectory is generated which is then tracked by a feedback loop to drive the system.
 
-</br>
+<br>
 
 <a href= "https://github.com/vishwajeet-NU/robotic_manipulation"> ​code source </a>
 

@@ -15,7 +15,7 @@ youtubeId: L8IIVp1OTfQ
 ---
 
 FMCG warehouses deal with a large range of SKUs ( in the 1000's) which are sorted into bins based on customer orders. Manually sorting these high number of SKU's is cumbersome and error-prone while also being slow. Thus a barcode-based light-guided system using a raspberry pi and Arduino's, was built to assist in this process.
-</br>
+<br>
 
 This system helped reduce sorting workforce by 50% and reduced sorting time by 20%.
 
