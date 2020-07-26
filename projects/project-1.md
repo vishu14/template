@@ -35,7 +35,6 @@ Code source :
 
 https://github.com/vishwajeet-NU/slam_project
 
-youtubeId: https://www.youtube.com/watch?v=BS0KN7_F8DE
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.https://www.youtube.com/watch?v=BS0KN7_F8DE %}
 
