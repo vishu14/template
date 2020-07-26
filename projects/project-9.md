@@ -14,9 +14,9 @@ youtubeId: lkwk4oDQZbQ&t=22s
 
 ---
 
-<div>
-<img class="ui medium right floated rounded image" src="../images/8.jpg">
-<img class="ui medium right floated rounded image" src="../images/11.jpg">
+<div class="ui medium images">
+<img class="ui medium right rounded image" src="../images/8.jpg">
+<img class="ui medium right rounded image" src="../images/11.jpg">
 </div>
 
 <br>
