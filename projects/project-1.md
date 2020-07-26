@@ -13,7 +13,7 @@ labels:
   - ROS
   - GIT
 summary: A ROS implementation of EKF Slam on a turtlebot3 
-youtubeId: https://www.youtube.com/watch?v=BS0KN7_F8DE
+youtubeId: BS0KN7_F8DE
 ---
 
 <div class="ui small rounded images">
