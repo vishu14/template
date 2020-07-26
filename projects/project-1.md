@@ -24,12 +24,12 @@ youtubeId: BS0KN7_F8DE
 This project was built from the ground up and coded using C++. It employs a feature-based SLAM system using Extended Kalman filters and is run on the turtle bot 3 platform.
 
 Project details:
-1) A kinematics library called rigid2d, which provides useful functions for forward and inverse kinematics following the modern screw theory approach. This is detailed in 'Modern Robotics' by Kevin Lynch and Frank Park.
-2) Creation of URDF descriptions to match a turtlebot3's dimensions.
-3) Custom gazebo sensor plugins to simulate wheel encoders. 
-4) Creating libraries called diff drive and waypoints to create differential drive robot and waypoint follower objects.
-5) Testing encoders and odometry in simulation and comparing it with the real turtlebot.
-6) Creating a clustering algorithm for identification of cylindrical landmarks.
+1) A kinematics library called rigid2d, which provides useful functions for forward and inverse kinematics following the modern screw theory approach. This is detailed in 'Modern Robotics' by Kevin Lynch and Frank Park. </br>
+2) Creation of URDF descriptions to match a turtlebot3's dimensions. </br>
+3) Custom gazebo sensor plugins to simulate wheel encoders. </br>
+4) Creating libraries called diff drive and waypoints to create differential drive robot and waypoint follower objects. </br>
+5) Testing encoders and odometry in simulation and comparing it with the real turtlebot. </br>
+6) Creating a clustering algorithm for identification of cylindrical landmarks. </br>
 7) EKF slam.
 
 Code source :
