@@ -5,7 +5,7 @@
     "picture": "https://vishu14.github.io/images/Vishwajeet Karmarkar1.jpg",
     "email": "vishwajeet@u.northwestern.edu",
     "website": "https://vishu14.github.io",
-    "summary": "I am pursuing a M.S in Mechanical Engineering Specializing in Robotics at Northwestern University. I am doing a thesis in Assitive Robotics under Dr Brenna Argall at the Argall Lab.",
+    "summary": "I am pursuing a M.S in Mechanical Engineering & Robotics at Northwestern University. My thesis is in assitive robotics under Dr Brenna Argall at the Argall Lab.",
     "location": {
       "address": "",
       "postalCode": "60201",
@@ -28,10 +28,11 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
+      "name": "",
+      "keywords": ["Ros", 
+        "Robotics",
         "Arduino",
-        "TI MSP430"
+        "internet of things"
       ]
     },
     {
