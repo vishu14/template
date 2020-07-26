@@ -13,12 +13,13 @@ summary: 2 meter long Vertical Axis Wind turbine blades
 youtubeId: lkwk4oDQZbQ&t=22s
 
 ---
+
+<div>
 <img class="ui medium right floated rounded image" src="../images/8.jpg">
 <img class="ui medium right floated rounded image" src="../images/6.jpg">
+</div>
 
-</br>
-
-4 custom built wind-turbine blades were manufactured. Carbon Skins were layed up and cured under vacuum. They were further bonded
+I manufactured four custom built wind-turbine blades at 12C Composites. Carbon Skins were layed up and cured under vacuum. They were further bonded
 with aluminum ribs using epoxy adhesives.
 
 {% include youtubePlayer.html id=page.youtubeId %}
