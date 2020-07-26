@@ -112,6 +112,18 @@
     },  
 
     {
+      "company": "Aparna Group",
+      "position": "Operations Manager",
+      "startDate": "2017-01-01",
+      "endDate": "2018-09-01",
+      "highlights": [
+          "Managed warehouse inventory worth $200K using FIFO",
+          "Managed a team of 40 delivery vans and 100 delivery staff to ensure smooth operations and timely service to 4500 customers",
+          "Led fieldwork to optimize delivery routes; reduced fleet by 8%"
+      ]
+    },  
+
+    {
       "company": "12C Composites",
       "position": "Founder",
       "startDate": "2015-11-01",
