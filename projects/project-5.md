@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
+image: images/Screenshot from 2020-07-26 00-36-16.png
 title: Pick and Place simulation
-image: images/Screenshot from 2020-07-26 00-26-56.png
 permalink: projects/Pick and Place simulation
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-01
