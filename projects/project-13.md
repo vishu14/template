@@ -16,7 +16,7 @@ youtubeID2: DxDe-ByR2w4
 
 ---
 <div class="ui medium images">
-<img class="ui medium right rounded image" src="../images/_final_rendered_edited.jpg">
+<img class="ui medium right rounded image" src="../images/render.jpg">
 <img class="ui medium right rounded image" src="../images/be1.jpg">
 <img class="ui medium right rounded image" src="../images/be2.png">
 </div>
