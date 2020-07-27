@@ -19,7 +19,8 @@ summary: A custom built shallow neural network to learn motion models of a diffe
 <img class="ui medium right rounded image" src="../images/train_data.jpg">
 <img class="ui medium right rounded image" src="../images/DSLAM.jpg">
 </div>
-A shallow neural network was trained using the UTIAS Multi-Robot Cooperative Localization and Mapping Dataset, by the ASRL lab.The network managed to learn the model and could predict the posterior position given a control command. This trajectory matched well to the ground-truth.
+A shallow neural network was trained using the UTIAS Multi-Robot Cooperative Localization and Mapping Dataset, by the ASRL lab.The network 
+was tasked to learn the motion model of a differential drive robot.Once trained it could predict the posterior position given a control signal. This trajectory matched well to the ground-truth.
 
 <br>
 

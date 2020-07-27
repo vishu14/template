@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/Screenshot from 2020-07-26 00-36-16.png
-title: Pick and Place simulation
-permalink: projects/Pick and Place simulation
+title: Pick and Place for a Kuka youbot
+permalink: projects/Pick and Place for a Kuka youbot
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-01
 labels:
   - MATLAB
   - VREP
   - Screw Theory
-summary: Buidling a holnomic drive robot with 6 dof arm
+summary: Using a holnomic drive robot with 6 dof arm to pick and place objects.
 youtubeId: xpOXj_r9JK0
 
 ---

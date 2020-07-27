@@ -23,7 +23,7 @@ youtubeId: BS0KN7_F8DE
 <br>
 <br>
 
-This project was built from the ground up and coded using C++. It employs a feature-based SLAM system using Extended Kalman filters and is run on the turtle bot 3 platform.
+This project was built from the ground up and coded in C++. It employs a feature-based SLAM system using Extended Kalman filters and is run on the turtle bot 3 platform.
 
 Project details:
 1) A kinematics library called rigid2d, which provides useful functions for forward and inverse kinematics following the modern screw theory approach. This is detailed in 'Modern Robotics' by Kevin Lynch and Frank Park. <br>
