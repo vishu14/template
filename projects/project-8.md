@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/14440756_1379870012026616_1783113082383808970_n.jpg
+image: images/IMG-20200727-WA0004.jpg
 title: Filament winding machine 
 permalink: projects/Filament winding machine
 # All dates must be YYYY-MM-DD format!
