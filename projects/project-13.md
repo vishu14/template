@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/_final_rendered_edited.jpg
+image: images/render.jpg
 title: Tilt Rotor
 permalink: projects/Tilt Rotor
 # All dates must be YYYY-MM-DD format!
